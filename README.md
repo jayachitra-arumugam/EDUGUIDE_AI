@@ -1,5 +1,3 @@
-# EDUGUIDE_AI
-
 # EDUGUIDE_AI 📚
 
 EDUGUIDE_AI is an AI-powered educational guidance system that helps students get smart learning recommendations and academic support.
